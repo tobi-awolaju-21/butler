@@ -1,0 +1,19 @@
+{
+  "name": "butler-package",
+  "version": "1.0.0",
+  "description": "One butler to run things for you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobi-awolaju-21/butler.git"
+  },
+  "author": "tobi-awolaju-21",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobi-awolaju-21/butler/issues"
+  },
+  "homepage": "https://github.com/tobi-awolaju-21/butler#readme"
+}
